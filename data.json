@@ -1,0 +1,48 @@
+[
+  {
+    "Name": "dOrg",
+    "Tagline": "Top web3 developers delivering decentralized infra and apps on demand. Helping clients reach +$4B TVL",
+    "Team Location": "Distributed",
+    "Website": "https://www.dorg.tech/",
+    "Business Type": "Web3 development services",
+    "Short Pitch": "dOrg provides web3 development services to projects seeking real-world impact. We've been operating as a DAO/Builders co-op since 2019.",
+    "Services Provided": [
+      { 
+        "title": "Smart contracts",
+        "describe": "tokenomics, web3 integrations, AI x web3 development, full stack engineering, devops, UX/UI, governance mechanisms, DAO set up and tooling, game theory design"
+      }
+    ],
+    "Pitch Deck": "https://docs.google.com/presentation/d/1H-qzWUbmm43j_Zc9epq-etWMHOq3SIMrcPiOC9U8Zhs/edit?usp=sharing",
+    "Case Studies": "https://www.dorg.tech/#/case-studies",
+    "Contact & Social": [
+      {
+        "title": "website",
+        "describe": "https://docs.dorg.tech/"
+      }
+    ],
+    "Logos": "dOrg-logo.svg"
+  },
+  {
+    "Name": "Oqtacore",
+    "Tagline": "Deep tech",
+    "Team Location": "Lausanne, Switzerland",
+    "Website": "www.oqtacore.com",
+    "Business Type": "Deep tech development (web3, AI, biotech)",
+    "Short Pitch": "AI, Web3, Biotech, and Enterprise innovation: turning bold ideas into scalable realities with precision. Prototype. Pivot. Scale",
+    "Services Provided": [
+      {
+        "title": "AI Agents",
+        "describe": "Biotech Innovation, Seamless API Connectivity, Blockchain and other software development, Digital Transformation and Automation, Big Data processing and migration services, Enterprise systems, Cloud & Infrastructure, Security and Compliance, Product Support & Optimization, Tech consulting and strategy, Design and UI/UX."
+      }
+    ],
+    "Pitch Deck": "",
+    "Case Studies": "https://oqtacore.com/cases",
+    "Contact & Social": [
+      {
+        "title":"Telegram channel",
+        "describe": "https://t.me/+82uC_mx1y8I1ODMx"
+      }
+    ],
+    "Logos": "dOrg-logo.svg"
+  }
+]
