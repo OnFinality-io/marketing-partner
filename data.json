@@ -10,6 +10,10 @@
       { 
         "title": "Smart contracts",
         "describe": "tokenomics, web3 integrations, AI x web3 development, full stack engineering, devops, UX/UI, governance mechanisms, DAO set up and tooling, game theory design"
+      },
+      {
+        "title": "AI develop",
+        "describe": "developer ai tools and website in minutes with AI's help"
       }
     ],
     "Pitch Deck": "https://docs.google.com/presentation/d/1H-qzWUbmm43j_Zc9epq-etWMHOq3SIMrcPiOC9U8Zhs/edit?usp=sharing",
