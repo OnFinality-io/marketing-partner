@@ -18,12 +18,14 @@
     ],
     "Pitch Deck": "https://docs.google.com/presentation/d/1H-qzWUbmm43j_Zc9epq-etWMHOq3SIMrcPiOC9U8Zhs/edit?usp=sharing",
     "Case Studies": "https://www.dorg.tech/#/case-studies",
-    "Contact & Social": [
-      {
-        "title": "website",
-        "describe": "https://docs.dorg.tech/"
-      }
-    ],
+    "Contact & Social": {
+      "website": "https://docs.dorg.tech/",
+      "x": "https://twitter.com/dOrg_tech",
+      "discord": "https://discord.com/invite/TEMzbPNkqf",
+      "youtube": "https://www.youtube.com/c/dOrg_tech/videos",
+      "github": "https://github.com/dOrgTech",
+      "linkedin": "https://www.linkedin.com/company/dorg-tech/"
+    },
     "Logos": "dOrg-logo.svg"
   },
   {
@@ -41,12 +43,12 @@
     ],
     "Pitch Deck": "",
     "Case Studies": "https://oqtacore.com/cases",
-    "Contact & Social": [
-      {
-        "title":"telegram",
-        "describe": "https://t.me/+82uC_mx1y8I1ODMx"
-      }
-    ],
+    "Contact & Social": {
+      "website": "https://docs.dorg.tech/",
+      "telegram": "https://t.me/+82uC_mx1y8I1ODMx",
+      "x": "https://x.com/oqtacore",
+      "linkedin": "https://www.linkedin.com/company/oqtacore"
+    },
     "Logos": "oqtacore.svg"
   }
 ]
