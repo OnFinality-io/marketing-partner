@@ -12,8 +12,24 @@
         "describe": "tokenomics, web3 integrations, AI x web3 development, full stack engineering, devops, UX/UI, governance mechanisms, DAO set up and tooling, game theory design"
       },
       {
-        "title": "AI develop",
-        "describe": "developer ai tools and website in minutes with AI's help"
+        "title": "Web3 & Cross-Chain Integrations",
+        "describe": "Seamless blockchain connectivity across ecosystems (EVM, Substrate, Cosmos, L2s), enabling interoperability and composability."
+      },
+      {
+        "title": "Full-Stack Engineering",
+        "describe": "End-to-end development including frontend, backend, DevOps, CI/CD, and infra optimization — built for performance and scale."
+      },
+      {
+        "title": "AI x Web3 Development",
+        "describe": "Integrate AI with Web3 to build intelligent agents, zkML workflows, and smart contract automation"
+      },
+      {
+        "title": "DAO Tooling & Governance",
+        "describe": "Launch and grow decentralized organizations with robust DAO frameworks, contributor systems, and governance mechanisms."
+      },
+      {
+        "title": "Game Theory & Incentive Design",
+        "describe": "Model and implement effective incentive structures to drive participation, sustainability, and user alignment."
       }
     ],
     "Pitch Deck": "https://docs.google.com/presentation/d/1H-qzWUbmm43j_Zc9epq-etWMHOq3SIMrcPiOC9U8Zhs/edit?usp=sharing",
