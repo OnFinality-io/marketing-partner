@@ -5,59 +5,81 @@
     "Team Location": "Distributed",
     "Website": "https://www.dorg.tech/",
     "Business Type": "Web3 development services",
-    "Short Pitch": "dOrg provides web3 development services to projects seeking real-world impact. We've been operating as a DAO/Builders co-op since 2019.",
+    "Short Pitch": "dOrg is a pioneering Decentralized Autonomous Organization (DAO) that has been operating as a builders' collective since 2019, revolutionizing how Web3 development teams organize and deliver value. As one of the first successful DAOs in the development space, dOrg operates as a distributed team of top-tier Web3 developers who specialize in creating real-world impact through decentralized technology. What sets dOrg apart is their unique organizational structure—clients aren't just hiring a traditional agency; they're partnering with a collective of passionate builders who understand the Web3 ethos from the ground up. With contributions to projects boasting a combined Total Value Locked (TVL) exceeding $4 billion, dOrg has established itself as a trusted partner for high-stakes Web3 initiatives across DeFi, governance, and decentralized infrastructure.",
     "Services Provided": [
-      { 
-        "title": "Smart contracts",
-        "describe": "tokenomics, web3 integrations, AI x web3 development, full stack engineering, devops, UX/UI, governance mechanisms, DAO set up and tooling, game theory design"
+       {
+        "title": "Smart Contracts & Tokenomics",
+        "describe": "Secure, efficient smart contract development and sustainable token economy design, including governance tokens, utility tokens, and complex DeFi protocols."
       },
       {
         "title": "Web3 & Cross-Chain Integrations",
-        "describe": "Seamless blockchain connectivity across ecosystems (EVM, Substrate, Cosmos, L2s), enabling interoperability and composability."
+        "describe": "Seamless blockchain connectivity across ecosystems (EVM, Substrate, Cosmos, L2s), enabling interoperability and composability for multi-chain applications."
       },
       {
         "title": "Full-Stack Engineering",
-        "describe": "End-to-end development including frontend, backend, DevOps, CI/CD, and infra optimization — built for performance and scale."
+        "describe": "End-to-end development including frontend, backend, DevOps, CI/CD, and infrastructure optimization—built for performance and scale in decentralized environments."
       },
       {
         "title": "AI x Web3 Development",
-        "describe": "Integrate AI with Web3 to build intelligent agents, zkML workflows, and smart contract automation"
+        "describe": "Integrate AI with Web3 to build intelligent agents, zkML workflows, smart contract automation, and next-generation decentralized applications."
       },
       {
         "title": "DAO Tooling & Governance",
-        "describe": "Launch and grow decentralized organizations with robust DAO frameworks, contributor systems, and governance mechanisms."
+        "describe": "Launch and grow decentralized organizations with robust DAO frameworks, contributor management systems, and sophisticated governance mechanisms."
       },
       {
         "title": "Game Theory & Incentive Design",
-        "describe": "Model and implement effective incentive structures to drive participation, sustainability, and user alignment."
+        "describe": "Model and implement effective incentive structures to drive participation, sustainability, and user alignment in token economies and decentralized systems."
       }
     ],
     "Pitch Deck": "https://docs.google.com/presentation/d/1H-qzWUbmm43j_Zc9epq-etWMHOq3SIMrcPiOC9U8Zhs/edit?usp=sharing",
-    "Case Studies": "https://www.dorg.tech/#/case-studies",
+    "Case Studies": "https://dorg.tech/#/case-studies",
     "Contact & Social": {
-      "website": "https://www.dorg.tech/",
+      "website": "https://dorg.tech/",
+      "documentation": "https://docs.dorg.tech",
       "x": "https://twitter.com/dOrg_tech",
       "discord": "https://discord.com/invite/TEMzbPNkqf",
-      "youtube": "https://www.youtube.com/c/dOrg_tech/videos",
+      "youtube": "https://www.youtube.com/@dOrg_tech",
       "github": "https://github.com/dOrgTech",
-      "linkedin": "https://www.linkedin.com/company/dorg-tech/"
+      "linkedin": "https://www.linkedin.com/company/dorg-tech/",
+      "brand_kit": "https://docs.dorg.tech/brand-kit"
     },
     "Logos": "logos/dOrg-logo2.png"
   },
   {
-    "Name": "Oqtacore",
-    "Tagline": "Deep tech",
+    "Name": "OQTACORE",
+    "Tagline": "Swiss-based experts in cross-domain innovation: turning bold ideas into scalable realities with precision",
     "Team Location": "Lausanne, Switzerland",
-    "Website": "www.oqtacore.com",
+    "Website": "https://oqtacore.com/",
     "Business Type": "Deep tech development (web3, AI, biotech)",
-    "Short Pitch": "AI, Web3, Biotech, and Enterprise innovation: turning bold ideas into scalable realities with precision. Prototype. Pivot. Scale",
+    "Short Pitch": "Headquartered in Lausanne, Switzerland, OQTACORE operates at the convergence of AI, Web3, biotech, and enterprise systems. As a deep tech powerhouse, we combine Swiss engineering precision with a global innovation mindset, turning bold ideas into scalable realities with speed and precision. Our approach blends deep consulting insights with robust engineering execution, making us the ideal partner for early-stage innovation through to large-scale deployment. We don't just code—we consult, architect, design, build, and iterate, following our philosophy: Prototype. Pivot. Scale.",
     "Services Provided": [
       {
-        "title": "AI Agents",
-        "describe": "Biotech Innovation, Seamless API Connectivity, Blockchain and other software development, Digital Transformation and Automation, Big Data processing and migration services, Enterprise systems, Cloud & Infrastructure, Security and Compliance, Product Support & Optimization, Tech consulting and strategy, Design and UI/UX."
+        "title": "AI & Intelligent Automation",
+        "describe": "Design and deploy intelligent AI agents, digital transformation solutions, and process automation systems that streamline operations and enhance decision-making."
+      },
+      {
+        "title": "Blockchain & Web3 Development",
+        "describe": "End-to-end Web3 solutions including smart contract development, security audits, custom blockchain integrations, and decentralized application engineering across multiple protocols."
+      },
+      {
+        "title": "Biotech & Life Sciences Innovation",
+        "describe": "Specialized research platform development, digital health prototyping, HIPAA-compliant data pipelines, and medtech tools with full regulatory compliance support."
+      },
+      {
+        "title": "Enterprise Systems & Cloud Infrastructure",
+        "describe": "Comprehensive systems development, cloud migration strategies, infrastructure management, and enterprise-grade security and compliance solutions."
+      },
+      {
+        "title": "Big Data Engineering & Migration",
+        "describe": "Advanced data processing pipelines, migration strategies, and analytics platforms designed to handle complex datasets with optimal performance."
+      },
+      {
+        "title": "Strategic Consulting & Design",
+        "describe": "Technical strategy and advisory services, seamless API integrations, UI/UX design, and usability testing to ensure your solutions meet both technical and user requirements."
       }
     ],
-    "Pitch Deck": "",
+    "Pitch Deck": "Sent separately in the chat (Web3 Brochure)",
     "Case Studies": "https://oqtacore.com/cases",
     "Contact & Social": {
       "website": "https://oqtacore.com/",
