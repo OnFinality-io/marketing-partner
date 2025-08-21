@@ -94,8 +94,8 @@
     "Tagline": "Bespoke, results-driven data solutions to help you deliver and scale",
     "Team Location": "Distributed",
     "Website": "https://subquery.network/professional",
-    "Business Type": "-",
-    "Short Pitch": "Let the experts do the hard work. SubQuery has a team of talented engineers and data-scientists in the field of Web3 data indexing. They know exactly how to build large Web3 datasets that can be used to power rich data-driven applications. SubQuery Professional Services has a proven track record working alongside OnFinality to build and run production datasets and pipelines for the largest teams in Web3. Why do you need SubQuery Professional Services? Use our expertise to build an indexer and free up your critical developer resources. Focus on building your project while we help you run the  infrastructure.",
+    "Business Type": "Web3 data indexing and infrastructure",
+    "Short Pitch": "Let the experts do the hard work. SubQuery has a team of talented engineers and data-scientists in the field of Web3 data indexing. They know exactly how to build large Web3 datasets that can be used to power rich data-driven applications. SubQuery Professional Services has a proven track record working alongside OnFinality to build and run production datasets and pipelines for the largest teams in Web3. \n Why do you need SubQuery Professional Services? \n Use our expertise to build an indexer and free up your critical developer resources. Focus on building your project while we help you run the  infrastructure.",
     "Services Provided": [
       {
         "title": "End-to-end Development",
@@ -123,7 +123,7 @@
       }
     ],
     "Pitch Deck": "-",
-    "Case Studies": "https://oqtacore.com/cases",
+    "Case Studies": "-",
     "Contact & Social": {
       "website": "https://subquery.network/professional",
       "github": "https://github.com/subquery",
