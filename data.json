@@ -88,5 +88,53 @@
       "linkedin": "https://www.linkedin.com/company/oqtacore"
     },
     "Logos": "logos/OQTACORE-logo2.jpg"
+  },
+  {
+    "Name": "SubQuery Professional Services",
+    "Tagline": "Bespoke, results-driven data solutions to help you deliver and scale.",
+    "Team Location": "Distributed",
+    "Website": "https://subquery.network/professional",
+    "Business Type": "-",
+    "Short Pitch": "Let the experts do the hard work. SubQuery has a team of talented engineers and data-scientists in the field of Web3 data indexing. They know exactly how to build large Web3 datasets that can be used to power rich data-driven applications. SubQuery Professional Services has a proven track record working alongside OnFinality to build and run production datasets and pipelines for the largest teams in Web3.
+Why do you need SubQuery Professional Services? 
+Use our expertise to build an indexer and free up your critical developer resources. Focus on building your project while we help you run the  infrastructure.",
+    "Services Provided": [
+      {
+        "title": "End-to-end Development",
+        "describe": "Support all the way from ideation to building and managing your production datasets and pipelines."
+      },
+      {
+        "title": "Indexing Project Reviews",
+        "describe": "SubQuery can review your data indexing projects to offer improvements and ensure best practices are followed."
+      },
+      {
+        "title": "Optimization & Fine Tuning",
+        "describe": "Performance optimization to get the most out of your SubQuery indexers."
+      },
+      {
+        "title": "Multi-Chain Expansion",
+        "describe": "Scale your project across multiple chains with seamless cross-chain indexing solutions built for growth."
+      },
+      {
+        "title": "Migration & Integration",
+        "describe": "Seamlessly integrate SubQuery datasets with your existing systems or migrate data from The Graph or other indexing solutions."
+      },
+      {
+        "title": "AI & Natural Language Interfaces",
+        "describe": "Unlock your data with AI-powered tools like the SubQuery GraphQL Agent, which lets users query indexed datasets in plain English - making insights more accessible than ever."
+      }
+    ],
+    "Pitch Deck": "-",
+    "Case Studies": "https://oqtacore.com/cases",
+    "Contact & Social": {
+      "website": "https://subquery.network/professional",
+      "github": "https://github.com/subquery",
+      "twitter": "https://twitter.com/subquerynetwork",
+      "telegram": "https://t.me/subquerynetworkcommunity",
+      "youtube": "https://youtube.com/c/SubQueryNetwork",
+      "discord": "https://discord.com/invite/subquery"
+      "linkedin": " https://www.linkedin.com/company/subquery"
+    },
+    "Logos": "logos/OQTACORE-logo2.jpg"
   }
 ]
