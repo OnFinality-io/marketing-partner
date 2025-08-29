@@ -1,6 +1,7 @@
 [
   {
     "Name": "dOrg",
+    "Slug": "dorg",
     "Tagline": "Top web3 developers delivering decentralized infra and apps on demand. Helping clients reach +$4B TVL",
     "Team Location": "Distributed",
     "Website": "https://www.dorg.tech/",
@@ -44,10 +45,12 @@
       "linkedin": "https://www.linkedin.com/company/dorg-tech/",
       "brand_kit": "https://docs.dorg.tech/brand-kit"
     },
-    "Logos": "logos/dOrg-logo2.png"
+    "Logos-black": "logos/dOrg-logo2.png",
+    "Logos-white": "logos/dOrg-logo2.png"
   },
   {
     "Name": "OQTACORE",
+    "Slug": "oqtacore",
     "Tagline": "Swiss-based experts in cross-domain innovation: turning bold ideas into scalable realities with precision",
     "Team Location": "Lausanne, Switzerland",
     "Website": "https://oqtacore.com/",
@@ -87,15 +90,17 @@
       "x": "https://x.com/oqtacore",
       "linkedin": "https://www.linkedin.com/company/oqtacore"
     },
-    "Logos": "logos/OQTACORE-logo2.jpg"
+    "Logos-black": "logos/OQTACORE-logo2.jpg",
+    "Logos-white": "logos/OQTACORE-logo2.jpg"
   },
   {
     "Name": "SubQuery Professional Services",
+    "Slug": "subquery",
     "Tagline": "Bespoke, results-driven data solutions to help you deliver and scale",
     "Team Location": "Distributed",
     "Website": "https://subquery.network/professional",
     "Business Type": "Web3 data indexing and infrastructure",
-    "Short Pitch": "Let the experts do the hard work. SubQuery has a team of talented engineers and data-scientists in the field of Web3 data indexing. They know exactly how to build large Web3 datasets that can be used to power rich data-driven applications. SubQuery Professional Services has a proven track record working alongside OnFinality to build and run production datasets and pipelines for the largest teams in Web3. \r\n Why do you need SubQuery Professional Services? \r\n Use our expertise to build an indexer and free up your critical developer resources. Focus on building your project while we help you run the  infrastructure.",
+    "Short Pitch": "Let the experts do the hard work. SubQuery has a team of talented engineers and data-scientists in the field of Web3 data indexing. They know exactly how to build large Web3 datasets that can be used to power rich data-driven applications. SubQuery Professional Services has a proven track record working alongside OnFinality to build and run production datasets and pipelines for the largest teams in Web3.  Why do you need SubQuery Professional Services?  Use our expertise to build an indexer and free up your critical developer resources. Focus on building your project while we help you run the  infrastructure.",
     "Services Provided": [
       {
         "title": "End-to-end Development",
@@ -122,8 +127,8 @@
         "describe": "Unlock your data with AI-powered tools like the SubQuery GraphQL Agent, which lets users query indexed datasets in plain English - making insights more accessible than ever."
       }
     ],
-    "Pitch Deck": "-",
-    "Case Studies": "-",
+    "Pitch Deck": "",
+    "Case Studies": "",
     "Contact & Social": {
       "website": "https://subquery.network/professional",
       "github": "https://github.com/subquery",
@@ -133,6 +138,7 @@
       "discord": "https://discord.com/invite/subquery",
       "linkedin": " https://www.linkedin.com/company/subquery"
     },
-    "Logos": "logos/subquery_icon_gradient_black.svg"
+    "Logos-black": "logos/subquery_icon_gradient_black.svg",
+    "Logos-white": "logos/subquery_icon_gradient_white.png"
   }
 ]
