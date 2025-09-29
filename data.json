@@ -140,5 +140,51 @@
     },
     "Logos-black": "logos/subquery_icon_gradient_black.svg",
     "Logos-white": "logos/subquery_icon_gradient_white.png"
+  },
+  {
+    "Name": "SIX Network",
+    "Slug": "six network",
+    "Tagline": "Simplify Blockchain Adoption, Amplify Business",
+    "Team Location": "Thailand",
+    "Website": "https://six.network/",
+    "Business Type": "Blockchain Consultants & Web3 Builders",
+    "Short Pitch": "SIX Network is a blockchain infrastructure company focused on driving real-world adoption. We provide scalable tools for tokenization and digital privilege management, supporting industries such as finance, debt, real estate, healthcare, and entertainment. With experience delivering projects from corporate loyalty systems to digital asset initiatives, SIX Network is committed to bridging Web2 and Web3 across Southeast Asia and beyond.",
+    "Services Provided": [
+      {
+        "title": "RWA Tokenization",
+        "describe": "RWA tokenization services that turn real-world assets into digital tokens, unlocking asset privileges and on-chain value."
+      },
+      {
+        "title": "Turnkey Web3 Development",
+        "describe": "End-to-end blockchain solutions, from ideation to deployment, tailored to accelerate Web3 adoption."
+      },
+      {
+        "title": "Six Protocol",
+        "describe": "A secure, scalable blockchain infrastructure designed to support enterprise and developer dApps."
+      },
+      {
+        "title": "Entertainment IP",
+        "describe": "Entertainment management platforms enabling fans to engage, participate, and earn through tokenized experiences."
+      },
+      {
+        "title": "Dynamic Data Layer",
+        "describe": "The future of ticketing - Secure, Anti-Scalping, Authentic ticket management."
+      },
+      {
+        "title": "Indexing",
+        "describe": "Provide blockchain data indexing to improve accessibility, transparency, and performance for dApps and businesses."
+      }
+    ],
+    "Pitch Deck": "",
+    "Case Studies": "",
+    "Contact & Social": {
+      "website": "https://six.network/",
+      "twitter": "https://x.com/theSIXnetwork",
+      "telegram": "https://t.me/SIXNetwork",
+      "discord": "https://discord.gg/sixnetwork",
+      "documentation": "https://sixnetwork.gitbook.io/six-network",
+    },
+    "Logos-black": "logos/subquery_icon_gradient_black.svg",
+    "Logos-white": "logos/subquery_icon_gradient_white.png"
   }
 ]
