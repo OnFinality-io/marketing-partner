@@ -151,8 +151,12 @@
     "Short Pitch": "SIX Network is a blockchain infrastructure and RWA tokenization solution provider for enterprises and organizations. We design tailored solutions to fit business needs, while creating new experiences by bridging Web3 and RWA into Web2 ecosystems. Users can easily access these innovations through Pas.ss, the central platform of SIX Network for memberships, privileges, and digital tickets. With experience delivering projects from corporate loyalty systems to digital asset initiatives, SIX Network is committed to bridging Web2 and Web3 across Southeast Asia and beyond.",
     "Services Provided": [
       {
-        "title": "RWA Tokenization & Web3 Development",
-        "describe": "Integrated solutions that transform real-world assets into digital tokens, unlocking privileges and on-chain value, while delivering end-to-end blockchain development from ideation to deployment to accelerate Web3 adoption."
+        "title": "RWA Tokenization",
+        "describe": "RWA tokenization services that turn real-world assets into digital tokens, unlocking asset privileges and on-chain value."
+      },
+       {
+        "title": "Turnkey Web3 Development",
+        "describe": "End-to-end blockchain solutions, from ideation to deployment, tailored to accelerate Web3 adoption."
       },
       {
         "title": "SIX Protocol",
